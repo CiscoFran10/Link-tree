@@ -70,7 +70,7 @@ const App = () => {
 					>
 						<img
 							className="h-10 pointer-events-none p-2"
-							src="/src/assets/linkedin-logo.svg"
+							src="/public/linkedin-logo.svg"
 							alt="Linkedin"
 						/>
 					</a>
@@ -80,7 +80,7 @@ const App = () => {
 					>
 						<img
 							className="h-10 pointer-events-none p-2"
-							src="/src/assets/github-logo.svg"
+							src="/public/github-logo.svg"
 							alt="Linkedin"
 						/>
 					</a>
