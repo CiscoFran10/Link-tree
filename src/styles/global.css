@@ -40,7 +40,7 @@
 		min-height: 100vh;
 		text-rendering: optimizeSpeed;
 		line-height: 1.5;
-		background: url("/public/real_cf.png");
+		background: url("/real_cf.png");
 		background-color: #0f172a;
 		background-blend-mode: overlay;
 	}
